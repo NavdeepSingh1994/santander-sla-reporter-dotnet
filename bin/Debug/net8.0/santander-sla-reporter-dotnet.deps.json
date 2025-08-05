@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "santander-sla-reporter-dotnet/1.0.0": {
+        "runtime": {
+          "santander-sla-reporter-dotnet.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "santander-sla-reporter-dotnet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
